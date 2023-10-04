@@ -1,4 +1,4 @@
-# Nome do projeto
+# Entendendo Pobreza No Brasil
 
 Escreva um ou dois parágrafos resumindo o objetivo do seu projeto. Lembrando que o objeto é desenvolver um sistema inteligente. Você deve mencionar o produto que está sendo desenvolvido, e não o que se espera obter com este produto.
 
